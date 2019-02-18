@@ -23,6 +23,7 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ### Survey
 
 - [[pdf](https://arxiv.org/pdf/1706.03446.pdf)] - **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. 2018.
+- [[code]https://github.com/NYUMedML/DeepEHR
 
 - [[pdf](https://arxiv.org/pdf/1806.00388.pdf)] - **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. 2018.
 
